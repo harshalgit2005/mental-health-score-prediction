@@ -9,7 +9,7 @@
   // --------------------------------------------------------------------
   // Config
   // --------------------------------------------------------------------
-  const API_BASE_URL = 'http://127.0.0.1:8000';
+  const API_BASE_URL = 'https://mental-health-score-prediction-z3w7.onrender.com';
   const PREDICT_ENDPOINT = `${API_BASE_URL}/predict`;
 
   const GAUGE_CIRCUMFERENCE = 2 * Math.PI * 92; // r = 92, matches SVG + CSS
